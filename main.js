@@ -1,0 +1,1 @@
+document.write("Hello darkness my old friend");
